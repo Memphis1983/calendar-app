@@ -1,1 +1,3 @@
-# Calendar App - work in progress
+# Calendar App
+
+#### work in progress 😉
